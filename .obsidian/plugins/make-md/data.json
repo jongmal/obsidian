@@ -42,7 +42,8 @@
     "//Study/Study/WEB Back-End",
     "//Study/Study/WEB Back-End/Study/WEB Back-End/Framwork",
     "//Study/Study/Git",
-    "//Study/Study/Git/Study/Git/Auth"
+    "//Study/Study/Git/Study/Git/Auth",
+    "//Study/Study/Git/Study/Git/error"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
