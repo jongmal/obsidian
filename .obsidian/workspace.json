@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Study.md",
+                "file": "Study/Git/Auth/Auth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study"
+              "title": "Auth"
             }
           }
         ]
@@ -183,19 +183,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d38551bb98b51adb",
+  "active": "3368510b9d0c090f",
   "lastOpenFiles": [
+    "Study/Git/Auth/SSH키 등록하기.md",
+    "Study/Git/Auth/Auth.md",
+    "Study/Study.md",
     "Study/Git/Git.md",
     "Study/Git/error/깃 포스트 버퍼 오류 Git Error RPC failed; HTTP 400 curl 22.md",
     "Study/Git/error/error.md",
     "무제 파일.canvas",
-    "Study/Git/Auth/SSH키 등록하기.md",
     "Study/Git/error",
-    "Study/Git/Auth/Auth.md",
     "Study/Git/Auth/Git SSH 발급하기.md",
     "Study/Git/Auth",
     "Study/Git",
-    "Study/Study.md",
     "Welcome.md",
     "Tags",
     "Study/WEB Back-End/Framwork",
