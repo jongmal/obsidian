@@ -11,12 +11,14 @@
             "id": "3368510b9d0c090f",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Study/WEB Back-End/Framwork"
+                "file": "Study/Git/Git SSH 발급하기.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Framwork"
+              "title": "Git SSH 발급하기"
             }
           }
         ]
@@ -102,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Study/Git/Git SSH 발급하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "Git SSH 발급하기의 백링크"
             }
           },
           {
@@ -120,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study/Git/Git SSH 발급하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "Git SSH 발급하기의 나가는 링크"
             }
           },
           {
@@ -145,9 +149,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Study/Git/Git SSH 발급하기.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Git SSH 발급하기 개요"
             }
           },
           {
@@ -180,8 +186,11 @@
   },
   "active": "3368510b9d0c090f",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Study/Git/Git SSH 발급하기.md",
+    "Study/Git/Git.md",
+    "Study/Git",
     "Study/Study.md",
+    "Welcome.md",
     "Tags",
     "Study/WEB Back-End/Framwork",
     "Study/Cloud & Infrastructure",
