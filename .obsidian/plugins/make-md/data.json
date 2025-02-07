@@ -37,14 +37,12 @@
   "expandedSpaces": [
     "/",
     "//📚Study",
-    "//Study",
-    "//Tags",
-    "//Study/Study/WEB Back-End",
-    "//Study/Study/Git",
     "//Study/Study/Git/Study/Git/Auth",
     "//Study/Study/Git/Study/Git/error",
-    "//Study/Study/Cloud & Infrastructure",
-    "//Study/Study/WEB Back-End/Study/WEB Back-End/Framwork"
+    "//Study/Study/WEB Back-End/Study/WEB Back-End/Framwork",
+    "//Tags",
+    "//Study",
+    "//Study/Study/Cloud & Infrastructure"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
