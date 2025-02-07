@@ -40,10 +40,11 @@
     "//Study",
     "//Tags",
     "//Study/Study/WEB Back-End",
-    "//Study/Study/WEB Back-End/Study/WEB Back-End/Framwork",
     "//Study/Study/Git",
     "//Study/Study/Git/Study/Git/Auth",
-    "//Study/Study/Git/Study/Git/error"
+    "//Study/Study/Git/Study/Git/error",
+    "//Study/Study/Cloud & Infrastructure",
+    "//Study/Study/WEB Back-End/Study/WEB Back-End/Framwork"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
